@@ -1,1 +1,1 @@
-# vuex-hand-write
+# 手写一个简易版的vuex
